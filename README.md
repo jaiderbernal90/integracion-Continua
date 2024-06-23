@@ -37,7 +37,7 @@ $ npm install
 ## Running the app with Docker
 ```bash
 
-$ docker compose build 222
+$ docker compose build
 
 $ docker compose up
 
@@ -51,7 +51,7 @@ $ npm run start
 # watch mode
 $ npm run start:dev
 
-# production mode s
+# production mode
 $ npm run start:prod
 ```
 
