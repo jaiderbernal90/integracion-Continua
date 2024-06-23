@@ -8,7 +8,7 @@ import { UsersModule } from './users/users.module';
   imports: [
      TypeOrmModule.forRoot({
       type: 'mysql',
-      host: 'https://18.212.199.131',
+      host: 'ec2-18-212-199-131.compute-1.amazonaws.com',
       database: 'app_back',
       port: 3306, 
       username: 'app_back',
