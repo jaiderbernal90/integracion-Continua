@@ -45,7 +45,7 @@ $ docker compose up
 ## Running the app
 
 ```bash
-# development
+# development !!!!
 $ npm run start
 
 # watch mode
