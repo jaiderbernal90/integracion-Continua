@@ -26,10 +26,10 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
-## Installation
+## Installation 222
 
 ```bash
-$ npm install
+$ npm install 
 ```
 ```bash
 
